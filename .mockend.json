@@ -1,6 +1,6 @@
 {
   "Users": {
-    "name" : "string"
+    "name" : "string",
     "email" : "string"
   }
 }
