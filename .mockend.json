@@ -1,0 +1,6 @@
+{
+  "Users": {
+    "name" : "string"
+    "email" : "string"
+  }
+}
